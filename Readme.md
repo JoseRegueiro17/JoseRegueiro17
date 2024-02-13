@@ -1,4 +1,4 @@
-## **Hola soy Jose**
+## **Hola soy Jose** :raised_hand_with_fingers_splayed:
 #### **Full Stack Developer.**
 -----
 Me gusta crear aplicaciones prácticas e intuitivas que solucionen pequeños problemas diarios.
